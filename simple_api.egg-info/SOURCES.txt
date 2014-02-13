@@ -1,0 +1,14 @@
+DESCRIPTION
+MANIFEST.in
+README
+README.rst
+setup.py
+simple_api/__init__.py
+simple_api/api.py
+simple_api/signals.py
+simple_api/urls.py
+simple_api/views.py
+simple_api.egg-info/PKG-INFO
+simple_api.egg-info/SOURCES.txt
+simple_api.egg-info/dependency_links.txt
+simple_api.egg-info/top_level.txt

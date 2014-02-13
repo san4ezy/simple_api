@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: simple-api
+Version: 0.1.3
+Summary: SimpleAPI is a Python package for making application programm interface. Everyone can make the API methods just like the Django Models.
+
+Home-page: http://yudkin.com.ua
+Author: Alexander Yudkin
+Author-email: san4ezy@gmail.com
+License: The MIT License (MIT)
+Description: UNKNOWN
+Keywords: django,api,simple_api
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Framework :: Django
+Classifier: Environment :: Web Environment
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
