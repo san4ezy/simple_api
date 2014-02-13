@@ -4,8 +4,7 @@ SimpleAPI
 
 SimpleAPI is a Python package for making application programm interface. Everyone can make the API methods just like the Django Models.
 
-`Package Documentation <https://django-rpc.readthedocs.org/>`_
-`Github repo <https://github.com/Alerion/Django-RPC>`_
+`Github repo <https://github.com/san4ezy/simple_api>`_
 
 Installation
 ============
